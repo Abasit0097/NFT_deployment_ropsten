@@ -1,0 +1,28 @@
+{
+    "nfts":[
+        {
+            "id" : 1,
+            "Name" :"Serenity", 
+            "Type" :"Express Cruiser",
+            "HP" :"38 Knot Monster",
+            "Image URl" :"https://github.com/Abasit0097/YatchNFT/blob/main/Images/1.jpg",
+            "baseURI" : "https://my-json-server.typicode.com/Abasit0097/YatchNFT/nfts/1"
+        },
+        {
+            "id" : 2,
+            "Name" :"My Day", 
+            "Type" :"Sports Cruiser",
+            "HP" :"10400",
+            "Image URl" :"https://github.com/Abasit0097/YatchNFT/blob/main/Images/2.jpg",
+            "baseURI" : "https://my-json-server.typicode.com/Abasit0097/YatchNFT/nfts/2"
+        },
+        {
+            "id" : 3,
+            "Name" :"Smerelda", 
+            "Type" :"Sedan Bridge",
+            "HP" :"12800 KTP",
+            "Image URl" :"https://github.com/Abasit0097/YatchNFT/blob/main/Images/3.jpg",
+            "baseURI" : "https://my-json-server.typicode.com/Abasit0097/YatchNFT/nfts/3"
+        }
+    ]
+}
